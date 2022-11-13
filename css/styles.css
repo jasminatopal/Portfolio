@@ -1,0 +1,21 @@
+.french-bulldog {
+width: 200px;
+}
+
+body { 
+    background-color: hsla(300, 93%, 88%, 0.93);
+    color:blueviolet;
+}
+body {
+    border-style: double;
+    border-radius: 12px;
+  }
+body {
+    text-align: center;
+}
+hr {
+    height:1px;
+    background-color: blueviolet;
+    border: none;
+}
+h1, h2, h3, h4 {font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
